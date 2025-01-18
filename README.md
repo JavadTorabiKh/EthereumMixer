@@ -1,6 +1,6 @@
 # Ethereum Mixer
 
-[![Ethereum Mixer Logo](https://upload.wikimedia.org/wikipedia/commons/6/6f/Mixer_%28website%29_logo.svg)]
+![Ethereum Mixer Logo](https://upload.wikimedia.org/wikipedia/commons/6/6f/Mixer_%28website%29_logo.svg)
 
 ## Introduction
 
