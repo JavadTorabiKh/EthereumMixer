@@ -18,3 +18,4 @@ Ethereum Mixer is a decentralized tool designed to enhance privacy in Ethereum t
 ## Get Started
 
 Dive into the world of anonymous transactions with Ethereum Mixer and experience a new level of financial privacy. Join the revolution and embrace the future of confidential Ethereum transactions with Ethereum Mixer. Your privacy is our top priority.
+To get started, you need to add the Solidity code to the Remix IDE tool and deploy the contract.
