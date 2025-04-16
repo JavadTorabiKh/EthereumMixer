@@ -2,6 +2,8 @@
 
 An Ethereum mixer smart contract built with **Solidity** and **Python**, designed to enhance transaction privacy using **Merkle Trees** and **zkSNARKs**. Inspired by [Tornado Cash](https://tornado.cash), this project aims to demonstrate how zero-knowledge cryptography can enable anonymous transactions on Ethereum.
 
+![Ethereum Mixer Logo](https://upload.wikimedia.org/wikipedia/commons/6/6f/Mixer_%28website%29_logo.svg)
+
 ---
 
 ## 📌 What is an Ethereum Mixer?
