@@ -1,1 +1,2 @@
 merkletools==1.0.3
+pycryptodome==3.22.0
