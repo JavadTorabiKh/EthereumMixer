@@ -1,6 +1,7 @@
 # Created by https://www.toptal.com/developers/gitignore/api/solidity
 # Edit at https://www.toptal.com/developers/gitignore?templates=solidity
 
+venv/
 ### Solidity ###
 # Logs
 logs
