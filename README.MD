@@ -106,3 +106,41 @@ Before diving into the implementation, it's important to understand the differen
     └── README.md
 
 ```
+
+---
+
+## 📚 Learning Resources
+
+- [Tornado Cash (Archived Docs)](https://docs.tornado.cash/)
+- [circom Documentation](https://docs.circom.io/)
+- [snarkjs GitHub](https://github.com/iden3/snarkjs)
+- [Poseidon Hash in circomlib](https://github.com/iden3/circomlib)
+- [Vitalik: Understanding zkSNARKs](https://vitalik.ca/general/2022/06/15/using_zoos.html)
+- [ZK Learning Hub](https://zklearning.xyz/)
+
+---
+
+## 🚀 Development Plan
+
+1. ✅ Implement Merkle Tree in Solidity and Python.
+2. ✅ Write the `mixer.circom` circuit.
+3. ✅ Generate trusted setup: `powers of tau`, `zkey`, and `verifier.sol`.
+4. ✅ Integrate zkSNARK proof verification into the Solidity contract.
+5. ✅ Automate proof generation using Python.
+6. ✅ Deploy on testnet and validate privacy.
+
+---
+
+## ⚠️ Legal Notice
+
+> **Disclaimer:** This project is for educational and research purposes only. Usage of privacy tools like mixers may be restricted or illegal in certain jurisdictions. Users are responsible for complying with local laws and regulations.
+
+---
+
+## 🤝 Contributions Welcome
+
+If you're a developer interested in privacy, cryptography, or Ethereum smart contracts – feel free to contribute and collaborate!
+
+---
+
+Made with 💻 Solidity and 🐍 Python.
