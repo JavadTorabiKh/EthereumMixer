@@ -4,15 +4,15 @@ crypto==1.4.1
 pytest==8.3.5
 web3==7.10.0
 py-solc-x==2.0.3
-bitarray           3.3.1
-certifi            2025.1.31
-charset-normalizer 3.4.1
-ckzg               2.1.1
-cytoolz            1.0.1
-eth_abi            5.2.0
-eth-account        0.13.6
-eth-hash           0.7.1
-eth-keyfile        0.8.1
+bitarray==3.3.1
+certifi==2025.1.31
+charset-normalizer==3.4.1
+ckzg==2.1.1
+cytoolz==1.0.1
+eth_abi==5.2.0
+eth-account==0.13.6
+eth-hash==0.7.1
+eth-keyfile==0.8.1
 eth-keys           0.7.0
 eth-rlp            2.2.0
 eth-typing         5.2.1
