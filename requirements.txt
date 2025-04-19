@@ -1,3 +1,6 @@
 merkletools==1.0.3
 pycryptodome==3.22.0
 crypto==1.4.1
+pytest==8.3.5
+web3==7.10.0
+py-solc-x==2.0.3
