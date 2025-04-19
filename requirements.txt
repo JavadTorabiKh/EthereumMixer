@@ -33,17 +33,17 @@ pydantic==2.11.3
 pydantic_core==2.33.1
 pysha3==1.0.2
 pyunormalize==16.0.0
-PyYAML             6.0.2
-regex              2024.11.6
-requests           2.32.3
-rlp                4.1.0
-setuptools         65.5.0
-shellescape        3.8.1
-tomli              2.2.1
-toolz              1.0.0
-types-requests     2.32.0.20250328
-typing_extensions  4.13.2
-typing-inspection  0.4.0
-urllib3            2.4.0
-websockets         15.0.1
-yarl               1.20.0
+PyYAML==6.0.2
+regex==2024.11.6
+requests==2.32.3
+rlp==4.1.0
+setuptools==65.5.0
+shellescape==3.8.1
+tomli==2.2.1
+toolz==1.0.0
+types-requests==2.32.0.20250328
+typing_extensions==4.13.2
+typing-inspection==0.4.0
+urllib3==2.4.0
+websockets==15.0.1
+yarl==1.20.0
