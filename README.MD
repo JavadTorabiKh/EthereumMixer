@@ -139,8 +139,4 @@ Before diving into the implementation, it's important to understand the differen
 
 ## 🤝 Contributions Welcome
 
-If you're a developer interested in privacy, cryptography, or Ethereum smart contracts – feel free to contribute and collaborate!
-
----
-
-Made with 💻 Solidity and 🐍 Python.
+- If you're a developer interested in privacy, cryptography, or Ethereum smart contracts – feel free to contribute and collaborate!
